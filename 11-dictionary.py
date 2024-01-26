@@ -40,3 +40,6 @@ print(namez.keys())
 print(namez.values())
 # print values
 print(namez.items())
+# namez.popitem(6)
+# namez.clear()
+
