@@ -25,10 +25,6 @@ os.chdir("new_directory")
 print(os.getcwd())
 
 
-
-
-
-
 # To move, copy, and delete files in Python, you can use the shutil module, which provides convenient methods for file operations. Here's how you can perform these operations:
 
 
